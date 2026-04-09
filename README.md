@@ -119,7 +119,7 @@ select * from pembelian;
 ### 📊 Hasil `pembelian`
 
 | id | nama_barang | jumlah_beli | total_harga |
-|-|-------------|------------|-------------|
+|----|-------------|-------------|-------------|
 |  1 | Indomie     |           5 |       16500 |
 
 ---
@@ -131,8 +131,8 @@ select * from log_pembelian;
 ### 📊 Hasil `log_pembelian`
 
 | id | aktivitas                    | waktu               |
-|---|--------------------------|---------------------|
-|  1 | Menambah data pembelian.         | 2026-04-08 15:14:20 |
+|----|------------------------------|---------------------|
+|  1 | Menambah data pembelian.     | 2026-04-08 15:14:20 |
 
 
 ----------
@@ -196,8 +196,8 @@ select * from log_pembelian;
 
 | id | aktivitas                    | waktu               |
 |----|------------------------------|---------------------|
-|  1 | Menambah data pembelian.         | 2026-04-08 15:14:20 |
-|  2 | Mengubah data pembelian.         | 2026-04-08 15:16:11 |
+|  1 | Menambah data pembelian.     | 2026-04-08 15:14:20 |
+|  2 | Mengubah data pembelian.     | 2026-04-08 15:16:11 |
 ----------
 
 ## 🗑️ DELETE
